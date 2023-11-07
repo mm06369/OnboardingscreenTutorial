@@ -1,0 +1,10 @@
+const String splash = '/splash';
+const String instruction = '/instruction_page';
+const String notFound = '/NotFoundPage';
+const String employeeHistory = '/employee_history_page';
+const String forgetPassword = '/forget_password_page';
+const String leaveManagementPage = '/leave_management_page';
+const String attendanceHistoryPage = '/attendance_page';
+const String customPaint = '/custom_paint_tutorial';
+const String onboardingScreen = '/onboarding_screen';
+const String login = '/login';
